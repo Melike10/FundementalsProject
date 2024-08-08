@@ -17,13 +17,20 @@ Bu proje, Patika.dev için yapılmış bir ödevdir. Bu projede, C# dilinde yaz�
 Bu proje, üç farklı konsol uygulamasını içermektedir:
 
 Rastgele Sayı Bulma Oyunu
+
 Hesap Makinesi
+
 Ders Notu Ortalaması Hesaplama
+
 Her bir uygulama, farklı metod türlerinin kullanımını göstermek amacıyla tasarlanmıştır:
 
 Parametre almayan ve değer döndürmeyen metodlar.
+
 Parametre almayıp değer döndüren metodlar.
+
 Parametre alıp değer döndüren metodlar.
+
+
 ## Kullanılan Teknolojiler
 C#: Bu projede kullanılan ana programlama dilidir.
 .NET Core Console Application: Konsol uygulamalarının çalıştırılabilmesi için .NET Core kullanılmıştır.
