@@ -3,12 +3,14 @@
 Patika.Dev Ödevi - C# Temel Uygulamalar
 Bu proje, Patika.dev için yapılmış bir ödevdir. Bu projede, C# dilinde yazılmış üç farklı konsol uygulaması bulunmaktadır. Her biri, farklı türlerde metodlar kullanarak temel programlama yapılarının kullanımını göstermektedir.
 
-# İçindekiler
+[İçindekiler]
 # Projeye Genel Bakış
 # Kullanılan Teknolojiler
 # Program Açıklamaları
    a) Rastgele Sayı Bulma Oyunu
+   
    b) Hesap Makinesi
+   
    c) Ders Notu Ortalaması Hesaplama
 
 ## Projeye Genel Bakış
