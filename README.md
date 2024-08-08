@@ -7,9 +7,9 @@ Bu proje, Patika.dev için yapılmış bir ödevdir. Bu projede, C# dilinde yaz�
 # Projeye Genel Bakış
 # Kullanılan Teknolojiler
 # Program Açıklamaları
-   #Rastgele Sayı Bulma Oyunu
-  #Hesap Makinesi
-  #Ders Notu Ortalaması Hesaplama
+   a) Rastgele Sayı Bulma Oyunu
+   b) Hesap Makinesi
+   c) Ders Notu Ortalaması Hesaplama
 
 ## Projeye Genel Bakış
 Bu proje, üç farklı konsol uygulamasını içermektedir:
@@ -32,12 +32,16 @@ Bu program, kullanıcıdan 1 ile 100 arasında bir sayı tahmin etmesini isteyen
 Kullanılan Metod:
 
 FindRandomValue(): Bu metod, parametre almayan ve değer döndürmeyen bir metoddur. Rastgele bir sayı üretir ve kullanıcının tahminlerini değerlendirir.
+
+
 2. Hesap Makinesi
 Bu program, iki sayı ve bir işlem türü (toplama, çıkarma, çarpma, bölme) alarak basit bir hesaplama yapar. Bölme işlemi sırasında sıfıra bölme hatasını önlemek için kullanıcı uyarılır.
 
 Kullanılan Metod:
 
 Counter(int num1, int num2, char op): Bu metod, parametre alıp değer döndüren bir metoddur. İki sayı ve bir işlem türü alır ve bu işlem sonucunu döndürür.
+
+
 3. Ders Notu Ortalaması Hesaplama
 Bu program, kullanıcının üç ders notunu alır ve bu notların ortalamasını hesaplayarak bir harf notu döndürür.
 
