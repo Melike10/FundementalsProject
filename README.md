@@ -3,14 +3,15 @@
 Patika.Dev Ödevi - C# Temel Uygulamalar
 Bu proje, Patika.dev için yapılmış bir ödevdir. Bu projede, C# dilinde yazılmış üç farklı konsol uygulaması bulunmaktadır. Her biri, farklı türlerde metodlar kullanarak temel programlama yapılarının kullanımını göstermektedir.
 
-İçindekiler
-Projeye Genel Bakış
-Kullanılan Teknolojiler
-Program Açıklamaları
-Rastgele Sayı Bulma Oyunu
-Hesap Makinesi
-Ders Notu Ortalaması Hesaplama
-Projeye Genel Bakış
+# İçindekiler
+# Projeye Genel Bakış
+# Kullanılan Teknolojiler
+# Program Açıklamaları
+   #Rastgele Sayı Bulma Oyunu
+  #Hesap Makinesi
+  #Ders Notu Ortalaması Hesaplama
+
+## Projeye Genel Bakış
 Bu proje, üç farklı konsol uygulamasını içermektedir:
 
 Rastgele Sayı Bulma Oyunu
@@ -21,10 +22,10 @@ Her bir uygulama, farklı metod türlerinin kullanımını göstermek amacıyla 
 Parametre almayan ve değer döndürmeyen metodlar.
 Parametre almayıp değer döndüren metodlar.
 Parametre alıp değer döndüren metodlar.
-Kullanılan Teknolojiler
+## Kullanılan Teknolojiler
 C#: Bu projede kullanılan ana programlama dilidir.
 .NET Core Console Application: Konsol uygulamalarının çalıştırılabilmesi için .NET Core kullanılmıştır.
-Program Açıklamaları
+## Program Açıklamaları
 1. Rastgele Sayı Bulma Oyunu
 Bu program, kullanıcıdan 1 ile 100 arasında bir sayı tahmin etmesini isteyen bir oyun sunar. Kullanıcının 5 tahmin hakkı vardır. Doğru sayıyı tahmin edemezse, oyun sonunda doğru sayı gösterilir.
 
@@ -43,7 +44,7 @@ Bu program, kullanıcının üç ders notunu alır ve bu notların ortalamasın�
 Kullanılan Metod:
 
 CountGrade(): Bu metod, parametre almayan ama bir string değer döndüren bir metoddur. Kullanıcının girdiği notların ortalamasına göre bir harf notu belirler.
-Kurulum ve Çalıştırma
+## Kurulum ve Çalıştırma
 Projeyi klonlayın veya indirin.
 .NET Core yüklü bir ortamda projeyi çalıştırın.
 Konsol üzerinden kullanıcıdan program seçimi yapması istenir. Gerekli bilgileri girerek istediğiniz programı çalıştırabilirsiniz.
