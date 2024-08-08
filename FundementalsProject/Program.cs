@@ -54,7 +54,7 @@ switch (p)
 
 
 // Rastgele tahmin oyunu. Guess random integer number game
-void FindRandomValue()// değer almıyor ve döndürmüyor method
+void FindRandomValue()// method değer almıyor ve döndürmüyor 
 {
     Console.WriteLine("1-100 arasında bir sayı tuttum bakalım 5 tahmin hakkın dolmadan aklımdaki sayıyı bulabilecek misin?");
     Random random = new Random();
@@ -96,7 +96,7 @@ void FindRandomValue()// değer almıyor ve döndürmüyor method
 
 }
 // hesap makinesi
-double Counter(int num1, int num2, char op)// değer alıyor ve döndürüyor method
+double Counter(int num1, int num2, char op)// method değer alıyor ve döndürüyor 
 {
     double res = 0;
 
